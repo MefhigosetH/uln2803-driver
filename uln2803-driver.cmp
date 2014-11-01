@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = sáb 01 nov 2014 18:46:08 ART
+
+BeginCmp
+TimeStamp = /5455421D;
+Reference = K1;
+ValeurCmp = BAT;
+IdModule  = mpt-3-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D9B58;
+Reference = P1;
+ValeurCmp = IN1;
+IdModule  = mpt-2-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /54553E6C;
+Reference = P2;
+ValeurCmp = IN2;
+IdModule  = mpt-2-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /54553EAC;
+Reference = P3;
+ValeurCmp = IN3;
+IdModule  = mpt-2-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /54553EF0;
+Reference = P4;
+ValeurCmp = IN4;
+IdModule  = mpt-2-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /5455401E;
+Reference = P5;
+ValeurCmp = OUT1;
+IdModule  = mpt-2-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /5455402D;
+Reference = P6;
+ValeurCmp = OUT2;
+IdModule  = mpt-2-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /5455403C;
+Reference = P7;
+ValeurCmp = OUT3;
+IdModule  = mpt-2-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /5455404B;
+Reference = P8;
+ValeurCmp = OUT4;
+IdModule  = mpt-2-2,54;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D99E7;
+Reference = U1;
+ValeurCmp = ULN2803;
+IdModule  = dil_18-300_socket;
+EndCmp
+
+EndListe
