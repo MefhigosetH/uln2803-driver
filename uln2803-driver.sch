@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date sáb 01 nov 2014 20:19:26 ART
+EESchema Schematic File Version 2  date mar 04 nov 2014 21:11:13 ART
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -37,7 +37,7 @@ $Descr User 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ULN2803 Driver"
-Date "1 nov 2014"
+Date "5 nov 2014"
 Rev "1.0"
 Comp "Victor Villarreal"
 Comment1 ""
@@ -140,21 +140,21 @@ F 1 "IN4" V 2300 4950 40  0000 C CNN
 	1    2250 4950
 	-1   0    0    1   
 $EndComp
-Text Label 3000 3650 2    60   ~ 0
-E0
 Text Label 3000 3850 2    60   ~ 0
+E0
+Text Label 3000 3650 2    60   ~ 0
 E1
-Text Label 3000 4050 2    60   ~ 0
-E2
 Text Label 3000 4250 2    60   ~ 0
+E2
+Text Label 3000 4050 2    60   ~ 0
 E3
-Text Label 3000 4450 2    60   ~ 0
-E4
 Text Label 3000 4650 2    60   ~ 0
+E4
+Text Label 3000 4450 2    60   ~ 0
 E5
-Text Label 3000 4850 2    60   ~ 0
-E6
 Text Label 3000 5050 2    60   ~ 0
+E6
+Text Label 3000 4850 2    60   ~ 0
 E7
 $Comp
 L CONN_2 P5
@@ -192,21 +192,21 @@ F 1 "OUT4" V 9100 4950 40  0000 C CNN
 	1    9050 4950
 	1    0    0    -1  
 $EndComp
-Text Label 8300 3650 0    60   ~ 0
-S0
 Text Label 8300 3850 0    60   ~ 0
+S0
+Text Label 8300 3650 0    60   ~ 0
 S1
-Text Label 8300 4050 0    60   ~ 0
-S2
 Text Label 8300 4250 0    60   ~ 0
+S2
+Text Label 8300 4050 0    60   ~ 0
 S3
-Text Label 8300 4450 0    60   ~ 0
-S4
 Text Label 8300 4650 0    60   ~ 0
+S4
+Text Label 8300 4450 0    60   ~ 0
 S5
-Text Label 8300 4850 0    60   ~ 0
-S6
 Text Label 8300 5050 0    60   ~ 0
+S6
+Text Label 8300 4850 0    60   ~ 0
 S7
 $Comp
 L CONN_3 K1
